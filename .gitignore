@@ -1,0 +1,5 @@
+secret_settings.py
+*.pyo
+*.pyc
+migrations/
+images/
